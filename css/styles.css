@@ -1,0 +1,29 @@
+.jumbotron{
+  background-image:url("../img/banner_arriba.png");
+  background-repeat: no-repeat; background-position: center; background-size:110%;
+  height: 40vh;
+}
+
+#linkespecial{
+  margin-top:23px;
+}
+
+.carousel img{max-height: 80vh;}
+
+p, h5 {color: black;}
+h5{font-size: 30px;}
+
+
+.special{margin-top: 40px;}
+
+#titulo1{color: #FF4040 }
+
+h1, h2{font-family: "Montserrat", sans-serif;}
+h1{font-size: 3rem}
+
+
+h3{margin-right: 30px;}
+
+#imagen{margin-bottom: 10%}
+
+#margen{margin-top: 25%;}
